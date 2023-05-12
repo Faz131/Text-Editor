@@ -50,7 +50,7 @@ export const getDb = async () => {
   console.log('result.value', result);
 
   console.error('getDb not implemented')
-  return result;
+  return result?.value;
 
 };
 
