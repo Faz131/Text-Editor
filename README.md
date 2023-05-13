@@ -43,3 +43,7 @@ faz131
 
 ## Email Address:
 faz@test.com 
+
+
+![TextEditorSample1](./assets/example1.PNG)
+![TextEditorSample2](./assets/example2.PNG)
